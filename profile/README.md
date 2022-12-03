@@ -5,8 +5,9 @@
         /_/       /_/   \__,_/  \__,_/  /_/ /_/ /_/ /_.___/ \___/ /_/
 
 
-# Bienvenidos a Fiuumber
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Bienvenidos! &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ## Nosotros
 
 - Tomas Bernardotti

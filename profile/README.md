@@ -19,8 +19,8 @@
 
 ### Guia de usuario
 
-- [Mobile](https://anichucai.github.io/Fiuumber.userguide.mobile/)
-- [Backoffice](https://anichucai.github.io/Fiuumber.userguide.backoffice/)
+- [Mobile](https://taller2-fiuumber.github.io/Fiuumber.userguide.mobile/)
+- [Backoffice](https://taller2-fiuumber.github.io/Fiuumber.userguide.backoffice/)
 
 
 ### Servicios Backend

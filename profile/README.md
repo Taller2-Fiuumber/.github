@@ -38,3 +38,8 @@
 |----------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Mobile   | [Fiuumber.mobile](https://github.com/Taller2-Fiuumber/Fiuumber.mobile)             | [link apk](https://drive.google.com/drive/folders/1XRKNWQXpM1wJUi7z1FuIM4kowWHaLsN4?usp=share_link) |
 | Web      | [Fiuumber.web](https://github.com/Taller2-Fiuumber/Fiuumber.web)                   | https://fiuumber-web.herokuapp.com/                                                                 |
+
+### Diagrama de arquitectura
+
+![diagrama-de-arquitectura](./diagrama-de-arquitectura.png)
+

@@ -25,3 +25,9 @@
 
 ### Servicios Backend
 
+| Nombre   | Repositorio                                                                        | Heroku                                           |
+|----------|------------------------------------------------------------------------------------|--------------------------------------------------|
+| Gateway  | [Fiuumber.api.gateway](https://github.com/Taller2-Fiuumber/Fiuumber.api.gateway)   | https://fiuumber-api-gateway-1.herokuapp.com     |
+| Users    | [Fiuumber.api.users](https://github.com/Taller2-Fiuumber/Fiuumber.api.users)       | https://fiuumber-api-users.herokuapp.com/docs    |
+| Trips    | [Fiuumber.api.trips](https://github.com/Taller2-Fiuumber/Fiuumber.api.trips)       | https://fiuumber-api-trips.herokuapp.com/docs    |
+| Payments | [Fiuumber.api.payments](https://github.com/Taller2-Fiuumber/Fiuumber.api.payments) | https://fiuumber-api-payments.herokuapp.com/docs |

@@ -41,5 +41,5 @@
 
 ### Diagrama de arquitectura
 
-![diagrama-de-arquitectura](../diagrama-de-arquitectura.png)
+![diagrama-de-arquitectura](./diagrama-de-arquitectura.png)
 

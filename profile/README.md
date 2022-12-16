@@ -19,7 +19,7 @@
 
 ### Guia de usuario
 
-- [Mobile](https://taller2-fiuumber.github.io/Fiuumber.userguide.mobile/)
+- [Mobile](https://taller2-fiuumber.github.io/Fiuumber.userguide.app/)
 - [Web](https://taller2-fiuumber.github.io/Fiuumber.userguide.web/)
 
 

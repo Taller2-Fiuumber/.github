@@ -20,7 +20,7 @@
 ### Guia de usuario
 
 - [Mobile](https://taller2-fiuumber.github.io/Fiuumber.userguide.mobile/)
-- [Backoffice](https://taller2-fiuumber.github.io/Fiuumber.userguide.backoffice/)
+- [Web](https://taller2-fiuumber.github.io/Fiuumber.userguide.web/)
 
 
 ### Servicios Backend
